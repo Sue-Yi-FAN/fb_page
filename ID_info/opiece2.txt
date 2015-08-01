@@ -1,0 +1,956 @@
+613724601990088	壽卡鐵馬驛站	Tours/Sightseeing	660	115	12764
+594159913993583	幸福本事手作窩	Arts/Entertainment/Nightlife	640	73	47
+594170267348926	麥味登港墘店	Restaurant/Cafe	26	0	11
+646080305505334	【地標】大心 台中勤美店	Local Business	297	99	4142
+646185678775638	屏東愛生動物醫院	Local Business	25	0	72
+646218772064791	社皮金案宮	Church/Religious Organization	685	7	206
+646295742100921	花蓮魔鏡時尚美睫美甲	Spas/Beauty/Personal Care	192	18	83
+646441535367878	炸老大自強店	Food/Grocery	89	0	7
+646466328769194	人文中醫診所	Hospital/Clinic	23	0	39
+646629712035269	木星車業	Professional Services	251	112	182
+646650058756241	首塢爾韓式料理-中港店	Restaurant/Cafe	4345	355	4145
+646725078681178	感恩動物醫院	Hospital/Clinic	494	10	173
+646766475356081	鹿港妖怪郵便局	Local Business	617	32	1037
+646796075405526	永慶不動產-楠梓德民加盟店	Real Estate	393	17	1654
+646887891996748	迪士丹麵包蛋糕坊	Food/Grocery	87	0	2
+646896875355806	【地標】1010湘 新竹sogo店	Local Business	90	24	3254
+646918298679472	香榭會館	Food/Beverages	1449	2	946
+646923255356427	板塊牛排 - 佳里店	Restaurant/Cafe	576	70	3037
+646937295403147	遠傳桃園愛買直營門市	Telecommunication	607	4	174
+647065411972850	101 Hair. Salon.	Local Business	25	0	32
+647069562031699	強勇檳榔南昌店	Local Business	168	2	148
+647148398642239	甜飾本舖	Shopping/Retail	32	0	3
+647423971948985	崔維斯英語培訓	Local Business	60	0	147
+647522515326118	亞太電信圓環東店	Professional Services	63	0	0
+647660825316954	同棧設計旅店	Tours/Sightseeing	1548	36	661
+647918868631675	高雄水電	Consulting/Business Services	237	2	2
+647966045296192	茶湯會內湖成功康寧店	Restaurant/Cafe	198	1	81
+648030981906969	羅東米糕枝	Food/Grocery	173	3	136
+648292251929220	永慶不動產崇善店	Consulting/Business Services	419	17	24
+648416505210170	泰味泰式料理	Restaurant/Cafe	26	0	267
+648700385186738	台中 air hair salon-凱悅店	Public Places	351	18	330
+648701541893034	鴨味仔薑母鴨-撫遠店	Food/Grocery	199	56	734
+648857755198749	鄉親經典牛肉河粉	Restaurant/Cafe	111	0	20
+649075945121547	麥寮東芳黛安芬	Local Business	5	0	6
+649160181833522	魚刺人雞蛋糕	Food/Grocery	1693	42	297
+649179625116086	心果蔬果汁	Food/Grocery	63	0	1
+649356541794033	茶湯會新莊中平店	Food/Beverages	125	6	148
+649850238429900	KEN 台中普瑒車業	Transportation	912	11	816
+284066648364873	64 Auto Salon	Automotive	274	14	405
+650002685051414	山中傳奇薑母鴨	Restaurant/Cafe	691	5	1569
+650144698409708	磨豆屋	Restaurant/Cafe	206	2	214
+650161688413901	聲霖中古家電	Company	61	0	1
+650536201684761	老虎牙子有氧生活家	Health/Beauty	737	1	280
+650664678339128	街頭霸王-豐原店	Business Services	701	5	152
+650768548269383	珍馨鮮（金桔檸檬、柳橙檸檬專賣店）	Food/Beverages	130	1	13
+650826778360136	欣園蔥抓餅	Food/Grocery	100	0	100
+652774288145506	行家蜜汁燒烤	Food/Beverages	426	52	262
+652844594794170	魏姐包心粉圓-台南店	Food/Grocery	550	4	1703
+652851594744392	大馬人馬來西亞鄉味館	Food/Grocery	957	8	243
+652882814795976	漁家村海鮮熱炒	Restaurant/Cafe	345	8	444
+652889201406973	徐記川菜館	Restaurant/Cafe	211	2	393
+652907464730594	鑫鱻味海鮮餐廳	Local Business	143	0	2
+652915411392975	I-cup台東更生店	Restaurant/Cafe	97	0	91
+653133581443042	均悅/新永資生堂碧麗妃專賣店	Health/Beauty	54	0	99
+653271228077378	惡魔天使創義料理	Restaurant/Cafe	1210	81	1492
+653326571349479	貢茶新莊幸福店	Food/Beverages	156	1	21
+653427898019302	美濃客家菜	Local Business	130	0	3020
+653492224712644	旭陽補習班	Education	254	73	0
+653534968008538	八里兩岸卡打車出租店	Transportation	13	1	3
+653544128019371	開發車業	Professional Services	161	0	78
+653698981337992	大阪拓海家	Restaurant/Cafe	1046	57	7845
+653720684727206	陸記藥局	Health/Medical/Pharmacy	73	0	37
+653846157968915	甲仙吉利芋冰城	Tours/Sightseeing	10	0	64
+653947164725534	冠虹飾品	Local Business	16	0	1
+654134391310972	許記臭豆腐	Food/Grocery	91	1	114
+654255521255200	水族藍圖貿易	Local Business	1295	86	0
+654314897970417	品皇咖啡 - 小港店	Shopping/Retail	308	29	9
+654353614619679	旺財廚房	Restaurant/Cafe	2998	1726	243
+654687887958048	伍分菊 海鮮碳烤餐廳	Restaurant/Cafe	557	134	1371
+654889254587187	邁達康新店中正店	Outdoor Gear/Sporting Goods	34	0	6
+654912057937808	協輝旅行社	Travel/Leisure	272	10	9
+654948257919473	安庭護理之家	Health/Medical/Pharmaceuticals	6	0	0
+654954134542743	朝鋒餅舖	Local Business	2	0	5
+655305711174232	阿舍	Shopping/Retail	330	13	71
+655321097834206	大水缸新士林	Tours/Sightseeing	335	2	154
+655489701151976	雅柔整體造型美學館	Spas/Beauty/Personal Care	77	0	25
+655551441151137	勤益101書香園	Landmark	120	1	105
+655564941154096	忠信鵝肉店	Restaurant/Cafe	65	2	624
+655631871151279	阿里巴巴的廚房	Food/Grocery	1	0	4
+655907077869028	貓頭鷹莊園	Tours/Sightseeing	220	70	100
+656466391087253	皇室吉利堡 樹林鎮前店	Restaurant/Cafe	50	1	3
+656538697740269	老馬師肉包	Local Business	195	0	35
+656542757700250	阿布日式料理	Restaurant/Cafe	627	22	1934
+656592044358416	財團法人法律扶助基金會板橋分會	Legal/Law	1692	47	19
+656894561029216	松賀茶	Local Business	29	0	4
+656922064380417	海佃路紅茶幫	Food/Grocery	333	12	90
+656994837724365	永慶不動產 - 台南裕農加盟店	Real Estate	40	1	37
+657132074340843	雅各漁棧	Restaurant/Cafe	1619	671	533
+657177757627177	新北市汐止北峰公共托育中心	Education	696	103	258
+657239057652054	快樂媽媽滷味坊	Food/Grocery	96	0	4
+659877497391921	清玉新莊新泰店	Restaurant/Cafe	185	1	62
+659937694075786	路科重機	Professional Services	396	24	16
+341706452636871	集味屋	Local Business	447	3	12
+660132740684620	紫雍飾品	Business Services	93	0	20
+660215577336200	麥味登健康店	Food/Grocery	4	0	43
+660302130756814	IPO汽車美容竹北店	Automotive	72	17	5
+660643643995159	Art亞特專業車體美研	Automotive	160	7	138
+660669957289288	啄木鳥動物醫院	Pet Services	491	42	438
+660717153953419	彫張刺青	Arts/Entertainment/Nightlife	2482	21	89
+660739360621430	戀棧	Local Business	500	47	127
+661054743967902	福元火烤兩吃	Landmark	19	2	246
+661321647232856	甲子園臭豆腐創意料理餐廳	Local Business	142	0	237
+661379107220879	林家素食水煎包	Food/Grocery	31	0	0
+661407243952439	藝術天際中心	Arts/Entertainment/Nightlife	100	1	30
+533865986711973	6618溜溜尾巴	Home Decor	952	18	0
+661951760527619	棉花糖早餐	Library	17	0	2
+662030723836464	旗山南站法鬥找茶	Food/Beverages	401	3	138
+662078523817606	跳蚤本舖-高雄右昌舖	Local Business	104	1	0
+662313267124929	TORAJASTAR CAF'E - 八德店	Restaurant/Cafe	460	2	1285
+662798627139020	卓家湯包	Local Business	314	8	155
+662964180485160	葳士派	Food/Beverages	142	3	166
+662973393818137	台南 蘇荷美術教室	Education	64	1	2
+663190927057026	海味海產店	Restaurant/Cafe	203	18	5503
+663586970381568	北極熊雪花冰	Local Business	146	2	93
+663607767065400	AIR-Taichung - 一中館	Tours/Sightseeing	202	1	62
+663785247023894	萬丹林記傳統手工豆花	Food/Grocery	139	1	29
+664282370264186	Rolls-Royce Motor Cars Taichung	Local Business	555	5	309
+664497186963505	喵仔美甲Nail Art	Professional Services	1097	37	133
+664749180204268	早餐優選 - 明德店	Local Business	78	1	113
+664763836932579	川上鍋物	Restaurant/Cafe	568	2	1420
+664785543540164	家安不動產經紀有限公司	Company	57	0	0
+665205830221118	小朋友皮鞋店（鼎力店）	Local Business	1050	129	339
+665237320161576	維多利亞花園Victoria Garden	Restaurant/Cafe	6980	55	7664
+665261940197531	鬥牛士板橋店	Food/Grocery	139	72	886
+658005330905380	安平地中海	Local Business	25	17	323
+658570454193788	Capricciosa卡布里喬莎（台南西門三越店）	Local Business	171	20	4170
+658716984160653	炳翰機構 - 台灣	Health/Beauty	271	2	162
+658815217475528	義歐小廚	Local Business	12	2	51
+658881824145833	宮綺308	Restaurant/Cafe	2132	200	1489
+659010397492342	承易國際精品	Shopping/Retail	95	0	1
+659487154081451	漢堡大師	Food/Grocery	0	0	4
+659613227387469	三響鮮魚店	Local Business	22	0	0
+651185241592507	澠井川 日式串燒 居酒屋	Restaurant/Cafe	4909	101	4351
+651195874903703	yoyo-shoes童鞋	Shopping/Retail	197	17	0
+651239828228837	123	Home Improvement	35	0	0
+651304134913867	Armory Tainan -兵工廠	Arts/Entertainment/Nightlife	1950	70	3063
+651522201530102	比菲利時尚美學診所-中壢店	Health/Beauty	5135	2	0
+651701211507736	濟世中醫診所	Health/Medical/Pharmacy	51	0	29
+652058231498563	中興巧沛東方美	Restaurant/Cafe	0	0	6
+652172754822132	7-11水上門市	Local Business	55	2	232
+652187554851789	尚洋髮藝愛三店	Spas/Beauty/Personal Care	337	3	191
+652470124764392	小惡魔炭燒牛排	Food/Beverages	14433	353	9703
+652585244782933	吉祥樓	Food/Grocery	81	6	242
+652636384830918	羅莊食堂	Local Business	277	4	549
+644428288958365	楊仁創意雕刻藝品工作坊	Local Business	604	4	5
+644469765618615	空中美語林口分校	Education	88	19	1
+644474952316729	胖女人肥皂	Spas/Beauty/Personal Care	354	52	197
+644516092312572	晶華傢俱嘉義店	Shopping/Retail	166	1	209
+644556348938582	龍欣耳鼻喉科診所	Hospital/Clinic	312	8	628
+644563008889247	歐都納北大店	Outdoor Gear/Sporting Goods	128	32	14
+644863982264535	瑞麟美而美 - 中壢福州店	Local Business	425	15	909
+644877142224332	家樂福天母店	Pet Services	5	17	239
+644929245589218	阿慶東山鴨頭	Food/Grocery	64	0	45
+645010575584243	國賓眼鏡-大墩店	Professional Services	0	0	0
+645221075551308	金石堂書店竹北店	Book Store	126	3	95
+645435155484882	長宏輪胎行	Automotive	32	0	66
+645494905531375	Golden Apple	Shopping/Retail	1105	110	54
+645611952140879	媽煮的麵店	Restaurant/Cafe	145	0	34
+665550203469763	新開岩赫隆寺	Landmark	150	1	54
+665601710146505	Hair Coucou	Professional Services	254	12	89
+651031894914901	天川養生會館	Health/Beauty	893	31	2440
+651061264925349	楓林餐館	Local Business	195	1	313
+657943030961247	林超群兒童眼科	Doctor	206	13	867
+657949084266441	壹路發專業汽車美容	Automotive	27	0	45
+698117736897457	雅雅整體造型	Local Business	6	0	0
+698445413522581	灶咖	Restaurant/Cafe	1431	2	413
+698828613493709	媽媽廚房碧潭店	Restaurant/Cafe	28	6	53
+698914556814994	Kitty Shop	Local Business	266	2	4
+699080743508697	騎士堡-台中小木偶的家（金典綠園道商場6樓）	Travel/Leisure	556	305	10876
+699091146784709	58度湯苑會館	Hotel	534	18	1930
+699239430146158	Pro麗鉅專業汽車美容-中正旗艦店	Professional Services	150	8	22
+699381576783606	美味早餐店	Food/Beverages	75	0	0
+699757526738539	松玫冰果室	Food/Beverages	155	6	507
+699794266738810	一窩瘋-峰布丁/奶酪	Local Business	216	8	31
+305048332960079	69火鍋	Restaurant/Cafe	53	2	202
+598818390162128	69香香鍋	Restaurant/Cafe	15	4	182
+228016943990046	69美髮沙龍	Spas/Beauty/Personal Care	672	4	355
+243342022434060	六德機車行	Shopping/Retail	66	0	0
+175850922500358	六分埔禮品	Local Business	366	6	433
+614171728674533	紙飛機活動企劃工作室	Event Planning/Event Services	261	0	7
+593820270638057	6尾一斤休閒釣蝦場	Arts/Entertainment/Nightlife	2755	414	7731
+102351296520744	6星集足體養身會館	Spas/Beauty/Personal Care	12279	1410	3559
+258766954169957	7-11奇晉門市	Retail and Consumer Merchandise	359	7	653
+700737479990615	鼓前堂燒肉居酒屋～鳳山店	Local Business	19	0	179
+700835269957375	星星裡	Restaurant/Cafe	173	0	621
+700882806591816	B-2生存遊戲場	Club	1529	5	0
+700902839945788	派克雞排高雄苓雅自強店	Food/Beverages	56	0	183
+701256989915076	Closet confidential	Local Business	1121	32	30
+701452806605193	ㄨ子	Local Business	347	0	1430
+701595323212252	信記香雞排	Local Business	217	0	1111
+701999699872568	社團法人花蓮縣新象社區交流協會	Non-Governmental Organization (NGO)	386	58	20
+702209756497022	元璋玻璃科技館	Company	825	13	306
+702226619808958	南之園餐廳	Food/Grocery	158	3	371
+702292586514427	Newart spa 美村店	Spas/Beauty/Personal Care	112	0	71
+702354089817783	溪州水尾震威宮	Church/Religious Organization	676	13	115
+702364736466255	遠傳電信高雄大昌直營門市	Telecommunication	528	22	126
+702400066447997	喜得炭火燒三明治-台南西賢店	Local Business	158	2	69
+702436133103906	臺灣大哥大豐原站前直營門市	Landmark	40	0	20
+702528843110315	營養園	Food/Grocery	85	0	0
+702594799829711	Q魔法屋平價服飾	Shopping/Retail	183	15	11
+702663729797187	芳谷溫泉小棧	Tours/Sightseeing	274	13	1452
+702696463090598	台灣牛肉麵-花蓮店	Restaurant/Cafe	286	24	1792
+702744079741793	乾杯海產	Restaurant/Cafe	106	0	277
+702866743156051	康寧園安養中心	Non-Profit Organization	141	7	241
+703066826392695	世界健身俱樂部 內湖店	Local Business	88	7	826
+580883128630232	台南仁德先天無極慈元宮	Church/Religious Organization	6	0	0
+703769202998150	惡魔狂爆雞排-逢甲慶和店	Local Business	622	7	814
+703791366309159	私藏不藏私	Restaurant/Cafe	9	0	65
+703910826356525	花閣樓都會園藝	Local Business	83	0	64
+704040456318725	躍獅奕新藥局	Health/Medical/Pharmacy	37	0	5
+704159756261432	越之鄉 越南美食專賣	Food/Grocery	70	1	0
+704292116304426	餃餃者	Food/Grocery	11	0	0
+704330266249477	鯊魚咬吐司 Shark Bites Toast-中壢Sogo店	Restaurant/Cafe	280	7	6623
+704331252921892	第三街	Restaurant/Cafe	8	0	17
+704474059575153	松竹園	Tours/Sightseeing	0	0	6
+704715942888111	捷比漫畫便利屋-中壢後站店	Book Store	356	11	93
+704749966236002	輔大豬排 - 文大店	Restaurant/Cafe	429	18	598
+704840896212081	伯利恆眼鏡專業視光中心	Local Business	380	37	421
+704930666216504	遠大飛鏢運動餐廳	Restaurant/Cafe	185	11	11
+705362746144097	皓生醫院	Health/Medical/Pharmaceuticals	637	17	2419
+705857822760840	日照日式料理屋	Local Business	948	218	3252
+705870076151277	六氧運動休閒會館	Local Business	55	2	441
+706088309483804	喫茶趣ToGo 高雄大遠百店	Local Business	121	4	594
+706088652781565	養心足體養生館	Local Business	36	0	12
+720675737946501	鹽水蜂炮	Tours/Sightseeing	809	3	5970
+720759474657713	豆坊嫩豆花老店-岡山分店	Restaurant/Cafe	143	1	62
+720776194652831	慶河堂	Church/Religious Organization	902	129	197
+721007921259715	松陶居食屋創作料理	Food/Grocery	885	8	1394
+721071287937348	宜蘭牛埔仔永惠廟-開漳聖王	Church/Religious Organization	733	38	677
+721281491262953	中壢順興糊紙店	Small Business	183	8	12
+721500217882752	美式早餐屋－埔心員鹿店	Restaurant/Cafe	75	1	278
+721791717837697	湛盧咖啡忠孝館	Local Business	683	62	6145
+722054037860193	江醫師追求零污染鋪子台中大里內新店	Food/Grocery	60	0	3
+722182517864741	好粥道潮州砂鍋粥	Restaurant/Cafe	554	14	3001
+722303934456008	熊ㄇㄚ ㄇㄚ臭豆腐	Food/Grocery	7	0	11
+722502631113432	億全車業	Local Business	353	54	120
+722686594418643	Homebox好博家太平店	Home Improvement	103	9	170
+1550063795217496	7228香烤美式牛排 - 內壢店	Restaurant/Cafe	154	8	462
+722917264433322	稑野汽車修配廠	Automobiles and Parts	254	0	205
+723012161057432	呷粥賀	Restaurant/Cafe	110	0	157
+724046344274777	幸福食尚小館	Food/Beverages	65	4	60
+724181184284149	喔嗨喲精緻早餐店	Restaurant/Cafe	329	9	62
+724234530997573	麥味登大里爽文店	Restaurant/Cafe	172	6	105
+724283457597724	中二水電行	Company	104	0	0
+724361480915496	采青鮮泡茶	Local Business	71	0	90
+724380297612887	品潔汽車美容 專業車體鍍膜	Company	269	44	56
+724782857585044	7-11伊達邵門市	Shopping/Retail	69	0	65
+725643107465125	友博動物醫院	Pet Services	487	6	286
+725661887492816	曾一豆包	Food/Grocery	108	0	26
+725878084143094	好樂迪通化店	Local Business	149	38	459
+725983237430803	蕃茄麵館	Food/Grocery	58	4	24
+726027277439587	BMW大桐原廠認證中古車	Automotive	6714	1057	11
+726143830735549	新日興機車座墊行	Professional Services	283	23	41
+726267484058921	天使與魔鬼自助洗車場	Local Business	308	20	1178
+726404084065464	旗山福德祠-土地公廟	Church/Religious Organization	307	20	24
+726760540707621	祥富素食館	Restaurant/Cafe	250	2	66
+726813657375856	文南吳師傅魯味	Food/Beverages	151	0	66
+726857864026219	JADE 傑得	Shopping/Retail	154	0	37
+726957777332402	源-鱔魚意麵	Restaurant/Cafe	107	0	8
+667318116644798	轉角726咖啡	Local Business	1157	52	1709
+727060594011649	街角161 法義料理	Food/Beverages	3782	103	2390
+727181654030726	昱品美術館	Museum/Art Gallery	81	2	28
+727747583936340	東方美早餐店 - 阿蓮店	Local Business	71	0	41
+728174427210942	爽燒烤吧	Food/Grocery	477	0	356
+728187883888916	立喬企業社	Small Business	1	0	0
+728328910610382	Oppa炸雞店	Restaurant/Cafe	1530	25	1053
+728480773880354	阿祿伯の大梨園	Local Business	99	0	0
+728551830555556	甜蜜蜜水果大賣場	Food/Grocery	93	0	20
+728761827145138	水世界	Local Business	52	6	1
+729260190449912	三育幼兒園	School	42	0	4
+729672757051304	果園素食漢堡屋	Food/Beverages	12	0	1
+729887673716184	85度c信義松山二代店	Food/Beverages	92	4	532
+729928227067705	燊的居酒亭	Restaurant/Cafe	487	4	1143
+376301442380818	72柴燒披薩	Local Business	36	0	115
+679636592062901	72號鬆餅堡	Restaurant/Cafe	2885	511	3136
+730119903674647	廟口民宿	Hotel	75	1	7
+730275563690512	萊爾富和玉店	Shopping/Retail	2	0	0
+730336790361519	科士威特惠屋台南華平店	Health/Beauty	191	4	163
+730341810319810	高邑林園區溪州里敬信宮	Church/Religious Organization	466	262	328
+730442586987268	茗華園茶坊	Restaurant/Cafe	75	13	83
+709996585763571	糖果王專賣店	Food/Beverages	55	1	90
+710082655669711	救國團北投教室	Education	51	0	9
+549384371745488	金合城銀樓	Shopping/Retail	194	1	8
+710308812320207	花蓮民宿吉安雅緻小築	Hotel	294	1	83
+710439812327288	喜得炭火燒三明治-善化建國店	Local Business	184	1	325
+710887652275899	誠品台南店	Book Store	0	0	4
+710964588936400	全音域耳機專賣店	Local Business	171	0	155
+710973348916637	非雞不可 Deep Fried Chicken Breast	Food/Beverages	45	0	14
+289525937735225	7-ELEVEn 勤科大門市	Shopping/Retail	941	19	57
+711024955584098	日月莊	Local Business	19	0	62
+711163665600309	瑞麟美而美  高雄  北平a店	Food/Grocery	99	7	63
+711203768890151	四海遊龍-梅高店	Local Business	22	0	65
+711238535596649	Olivia Shop	Shopping/Retail	133	0	18
+711375582237845	345 Pasta 義大利麵 火鍋 咖啡	Restaurant/Cafe	222	0	192
+711468635574448	泰山公有市場	Local Business	9	0	112
+711800365551988	漁頭海產	Restaurant/Cafe	54	16	77
+711830318833836	日式鍋燒屋廣東店	Restaurant/Cafe	128	14	483
+711936812197262	員林香記沙茶火鍋	Food/Grocery	120	0	149
+132512636940646	7-11安高門市	Local Business	252	13	1059
+270076286512254	7-11大展門市	Local Business	454	0	33
+393498124072143	7-11保鑫門市	Retail and Consumer Merchandise	238	9	512
+192521150915740	7-11八卦寮門市	Local Business	157	11	389
+402786163163584	711昌聖門市 Open大公仔專區	Local Business	154	1	1073
+453699581386139	7-11清境門市	Tours/Sightseeing	192	67	12662
+427843097299299	7-11大洲門市	Local Business	411	6	275
+216423911830863	7-11東遊季門市	Shopping/Retail	254	3	0
+373316062769174	7-11光園門市	Local Business	8	0	12
+538570756198813	7-11 光峰門市	Local Business	35	0	33
+646194355465770	7-11 傑元門市	Local Business	40	1	45
+141163199394037	7-11關西門市	Small Business	99	6	0
+192126894315587	7-11新大業門市	Local Business	187	2	36
+232791323571995	7-ELEVEn新湖工門市	Company	546	1	107
+156286104455516	7-11平東門市	Local Business	221	48	1093
+385451454800713	7-11 前中	Local Business	109	1	265
+407533212614588	7-11 天虹門市	Local Business	357	7	578
+806488962719257	7-11 新南科門市	Local Business	21	1	217
+591715657569029	7-11墩陽門市	Shopping/Retail	169	17	34
+123311777836613	7-11天仁門市	Local Business	450	10	0
+397102450424596	7-11五華門市	Local Business	145	3	180
+441118605925517	7-11西湖門市	Shopping/Retail	209	2	322
+413676185415990	7-11興春門市	Shopping/Retail	264	3	281
+172252992953421	7-11幸福市門市	Local Business	472	20	261
+230904527012956	7-11欣佳和門市	Local Business	192	7	652
+286047654845561	7-11 新年門市	Food/Grocery	309	1	513
+321837681352336	7-11楊昌門市	Local Business	155	3	266
+399515533467261	7-11雅新門市	Local Business	267	1	155
+132699446920640	台27線7-11永盛門市	Shopping/Retail	455	9	483
+162207687314942	7-Eleven 育仁門市	Business Services	177	2	287
+712464282134259	漂亮寶貝鹹水雞	Local Business	5	0	2
+712572938766559	ACDelco宗盟汽車保養廠	Local Business	126	10	70
+712716835457713	鎮泓文化廣場	Book Store	165	27	62
+593152764112256	天味鹽水雞ㄧ號店	Food/Grocery	17	0	2
+712900912066311	黃家牛肉麵	Food/Grocery	0	5	11
+302747233212209	大大通訊-華夏店	Small Business	650	5	144
+265717293540426	Princess Shop	Local Business	336	0	217
+713019412080018	茶湯會-高雄苓雅二店 07-2692688	Food/Beverages	22	0	131
+713200685369784	大三仙頂級現宰牛肉湯	Food/Grocery	106	14	668
+356727094453202	內巷咖啡	Restaurant/Cafe	1671	209	1196
+714495861922476	雷門日式手作霜淇淋	Local Business	1169	0	140
+714844625224215	Mo La'Vie	Local Business	2555	52	247
+714978948558894	咪蜜美甲遊樂園	Spas/Beauty/Personal Care	279	31	210
+715271958496606	7-11 東航門市	Shopping/Retail	97	32	167
+715448665149443	番紅花	Health/Beauty	1123	4	38
+715456561817409	C.L.C Hair/studio	Local Business	236	0	229
+715465985228868	陽光水岸渡假會館	Hotel	273	12	754
+715612198465476	Ifun玩樂資源站	Local Business	201	0	84
+715682521794132	伊薇特冰淇淋.蛋糕.伴手禮	Food/Grocery	567	38	485
+716371161719448	元寶水餃	Food/Grocery	81	0	19
+716445465061995	呼嚕滷味	Local Business	12	0	1
+345688675455611	櫻井壽司料理店	Restaurant/Cafe	298	4	154
+716541141773732	郭家熱炒＆代客料理	Restaurant/Cafe	552	10	105
+716668078381472	世界撞球休閒廣場	Sports/Recreation/Activities	173	0	496
+716739381690085	彰化福泰商務飯店	Local Business	269	112	7042
+716856931689320	林園平價日本料理	Food/Grocery	1	0	8
+717265791624699	航空補給站	Local Business	21	0	58
+717290631653572	德瑞克的美嚷 Derek's Maison	Food/Beverages	1138	96	3784
+717609371626205	姿也髮型光復店	Professional Services	346	4	139
+717654921617604	中信羽球館	Sports Venue	538	18	627
+717772321575324	雍姌髮藝美甲整體造型	Professional Services	102	0	43
+718000404924150	高源車業	Local Business	159	28	85
+718054344887329	巴洛克風味館	Food/Grocery	136	4	302
+706596392695697	金大有彩卷行	Arts/Entertainment/Nightlife	11	0	21
+706667246052159	靚皇后精品服飾	Shopping/Retail	178	2	61
+706900939348998	全家便利商店松旺店	Local Business	0	0	5
+707276619340838	老主顧檳榔西濱店	Food/Grocery	190	1	0
+707417232675648	Hana精品服飾	Local Business	807	9	84
+707429919332204	幾丸の超營養早餐店	Restaurant/Cafe	203	0	26
+707723589250555	高雄明道中醫診所	Health/Medical/Pharmaceuticals	3	1	10
+707902262601613	昱成汽車商行	Automobiles and Parts	73	3	6
+707946732556735	住商不動產科園店	Real Estate	0	0	0
+708085219271220	莫凡彼歐風餐廳 - 竹北店	Restaurant/Cafe	1424	15	680
+708153549205712	非常好吃素刈包	Restaurant/Cafe	1066	7	52
+708285389238278	鴨霸鍋薑母鴨	Food/Beverages	3419	13	775
+708462429194736	炒飯班	Food/Grocery	0	0	18
+708674222520791	春田窯茶坊	Tours/Sightseeing	109	1	128
+708916359142536	緣道素食養生膳坊	Local Business	78	6	86
+708949839196183	米蘭站逢甲店	Shopping/Retail	538	25	174
+709035262507718	興毅素食館	Restaurant/Cafe	52	0	18
+709046372453724	麥當勞神岡中山	Restaurant/Cafe	535	19	3058
+709322722461048	大埔肉燥粿	Food/Beverages	61	5	89
+709446542450557	沙鹿裕新火雞肉飯	Food/Beverages	273	1	57
+718599688165868	Saboten 勝博殿_ 松山店	Local Business	1240	5	2149
+718920648122504	十方水果	Local Business	55	0	13
+719208251489667	半畝田北方麵食-新莊民安店	Local Business	87	3	90
+719443331435020	璞爵室內設計	Engineering/Construction	561	40	0
+719939241422296	童年懷舊豆腐冰	Food/Beverages	641	9	2809
+719962634757164	原翦時尚髮妍民生店	Spas/Beauty/Personal Care	325	0	118
+498247360213804	陳光邏輯式記憶 - 學員分享站	Public Figure	1496	5	0
+459667027457476	71度n庭園咖啡	Restaurant/Cafe	1042	52	0
+720457967981261	文林早午餐	Restaurant/Cafe	82	13	112
+731313130216995	台東成功萬善廟 Cheng gong WAN SHAN temple	Non-Governmental Organization (NGO)	490	5	226
+731395443592205	甜蜜小C	Food/Beverages	330	0	33
+731495643557462	正韓secret秘密服飾	Local Business	169	0	170
+731513383551274	威廉王子幼兒園	Education	245	2	131
+731724433542088	四海遊龍-九龍店	Local Business	21	2	106
+731818046854339	潮州圓環店-天津蔥抓餅	Food/Grocery	321	0	79
+731999520160522	宏哥熱炒食堂	Restaurant/Cafe	54	0	25
+732118803499900	仁成製繩	Retail and Consumer Merchandise	39	0	0
+732697940124213	林肯牙醫	Health/Medical/Pharmaceuticals	18	0	3
+730607846957700	O2～歐兔咖啡廚房～新店中華店	Restaurant/Cafe	361	1	807
+730904240256851	草湖天天來	Business Services	274	24	9
+706232612748090	益欣車業	Automotive	233	0	114
+138099936255786	ATT 4 FUN	Shopping/Retail	58529	2102	378152
+329389467128217	- att吸引力樂器 -	Local Business	11357	859	3354
+186667221468273	ATT Plusupreme Store	Shopping/Retail	352	0	157
+202915396554031	歐都納-大里店	Outdoor Gear/Sporting Goods	285	2	117
+289377537761445	歐都納-林口店	Local Business	8575	70	250
+1374980722759217	阿桐伯農果行家/阿湯哥農果	Food/Grocery	724	45	0
+596608013713536	AT 溫度餐坊	Food/Beverages	628	2	902
+145449365466606	AuDot	Shopping/Retail	3399	10	31
+318113668303295	K.W Wedding 奧帝麗皇家婚紗	Professional Services	2108	104	533
+469685036423961	奧瑪蛋糕烘焙-義大世界店	Restaurant/Cafe	572	4	699
+223017035431	真理大學教士會館	Restaurant/Cafe	3469	48	3027
+128098260602933	阿柳姨豬血湯	Local Business	25	12	269
+393285317426163	阿姨の早餐	Local Business	92	0	40
+242972282436627	安提詩 Aunties Café 咖啡‧早午餐	Restaurant/Cafe	378	7	984
+524417131018755	小阿姨	Tours/Sightseeing	21	0	1
+316974091793446	髮黛-髮型沙龍	Professional Services	20	0	56
+1457808987783699	歐芭蕾Au Palais  美容spa	Spas/Beauty/Personal Care	198	29	145
+473605866081832	AURA HAIR SALON	Spas/Beauty/Personal Care	158	2	71
+586629571427125	小雯的粉園	Community	204	38	0
+249935598430660	震旦月刊	Media/News/Publishing	1792	4	0
+1768730310019217	震旦通訊台南西門二店	Local Business	168	2	398
+355684991138224	震旦通訊麻豆興國	Local Business	219	0	5
+214842855337380	震旦通訊  龍潭店	Shopping/Retail	34	0	0
+464702686896264	Mira Studio	Professional Services	243	0	60
+585219801555765	震旦通訊中壢慈惠店	Shopping/Retail	95	0	13
+156916407685548	Aurora震旦通訊	Telecommunication	33053	2037	0
+579425895413449	Aurore.韓國精品服飾	Clothing	827	7	0
+213172965475179	奧地利台北辦事處	Government Organization	6602	3	6
+204516423025972	中原正宗羊肉焿	Local Business	76	1	43
+349045945107854	三顧茅廬(大直北安店)	Restaurant/Cafe	105	2	147
+264023486984847	歐瑟國際有限公司	Sports/Recreation/Activities	554	5	277
+458008137637793	冠美專業汽車/機車美容坊	Automotive	170	3	168
+579749108737000	潑專業汽車美容鍍膜	Company	127	0	0
+454072587978591	銓富國際(汽車)	Automotive	525	15	147
+1525353527687983	宇豪汽車股份有限公司	Automotive	2122	1	33
+278893072268037	得寶汽車國際有限公司	Automobiles and Parts	257	12	1891
+310880482381557	得鑫車業	Automotive	703	0	547
+558731574179200	Autumn	Bar	467	2	174
+169314233154520	Q nail藝術美甲	Health/Beauty	7935	910	2280
+1466256713614930	Comebuy 中和中安店	Food/Beverages	424	49	130
+157313230990108	Avalanche Bikinis	Local Business	16298	1153	3
+130063629605	安勤科技	Computers/Technology	134	10	6
+305219882921099	衝點咖啡【衝• 】	Restaurant/Cafe	1133	75	1600
+1398271357078227	香榭國際精品	Company	15725	754	0
+514435328678781	AVERY 車體包膜材料 台灣區總經銷	Small Business	5820	198	9
+232121823619589	內政部警政署航空警察局	Government Organization	2555	1262	0
+644509402262523	Avis雅澤沙龍	Spas/Beauty/Personal Care	301	2	129
+538081189576024	雅芳樹林區域服務中心	Local Business	714	66	82
+493124207422664	Avon雅芳前鎮區域服務中心	Spas/Beauty/Personal Care	28	3	9
+407736362647749	Avon左營區域服務中心	Health/Beauty	103	3	219
+512799535512428	艾薇爾小兒科診所	Health/Medical/Pharmacy	30	0	12
+446697698682578	阿萬師的床墊	Local Business	1778	58	3
+123288741015057	阿華師茶業	Company	5202	326	0
+202699323215629	阿華師三民旗艦店	Food/Beverages	476	23	2025
+1548228732065234	錦車舫（屠夫場 ）	Automotive	453	4	14
+355209324618081	香媞工作室	Spas/Beauty/Personal Care	74	0	5
+513126752033766	阿瑋鵝肉王	Food/Grocery	324	0	7
+234412813243993	花蓮阿偉炸蛋蔥餅	Food/Beverages	6079	7	66
+273593436171384	歐森晨間廚房	Restaurant/Cafe	459	14	815
+270389069825314	Awhile 外兒小館	Restaurant/Cafe	1194	59	525
+625552867477713	爾維斯a'wing.s hair	Local Business	4928	13	652
+179205255480482	允記食堂	Restaurant/Cafe	2113	59	6012
+104252339713024	AworkDesign.Studio 而沃設計	Engineering/Construction	3640	62	30
+224300684250668	新莊環球影城婚紗	Local Business	1974	48	459
+409009265834568	阿霞豬肝肉燥專賣店	Food/Grocery	192	1	0
+190415867787312	阿霞汕頭意麵	Food/Beverages	60	10	55
+411832455540186	亞鑫歐法廚房	Restaurant/Cafe	364	0	95
+128086660724106	龜山島阿興現撈鮮海產	Restaurant/Cafe	751	12	0
+166732806831716	安興車業	Automotive	299	31	2235
+1484284618512307	黃克翊建築師事務所	Engineering/Construction	633	38	88
+415442381843258	阿義傳統麻糬	Food/Grocery	280	0	1
+403107109754699	阿毅輪胎 AE Tires	Local Business	6873	903	2775
+177448339072899	阿義小吃店	Local Business	273	3	46
+194999437176998	阿益蕎麥麵綠藻麵	Restaurant/Cafe	137	9	830
+247183635454915	艾爾美 美妍館	Spas/Beauty/Personal Care	103	14	61
+1448905865346064	雄崎機車行	Transportation	228	1	42
+145749555462775	AZ 涉谷殿堂	Spas/Beauty/Personal Care	5924	3	40
+100279516848266	歐爺生猛海鮮熱炒100元	Restaurant/Cafe	5468	5	1305
+639252589424848	阿志粄條	Restaurant/Cafe	189	7	375
+129457473794142	麻布茶房	Food/Beverages	5364	13	34917
+402417506505615	阿振麵茶 - 鹿港名產	Food/Beverages	372	5	0
+175430549262251	AZ Hair Salon	Spas/Beauty/Personal Care	193	4	16
+1380866325462723	阿璋手工麵線糊	Food/Grocery	879	67	4775
+166253353510426	阿珍越南小吃店	Local Business	80	0	0
+373107379373167	阿忠意麵二店	Restaurant/Cafe	397	3	1115
+338416016291184	阿中豆花	Restaurant/Cafe	65	0	12
+217662271689666	阿忠龜山島現撈海鮮	Local Business	301	8	124
+187464948004709	阿忠羊肉爐店	Restaurant/Cafe	2957	7	8474
+276018272535645	阿珠快炒	Food/Grocery	300	5	0
+257914864305171	九份阿珠雪在燒   A-Zhu Peanut ice cream roll (花生捲冰淇淋)	Food/Grocery	347	2	339
+570817516331517	釀市集	Food/Grocery	1618	186	140
+110752672433795	三峽阿宗芋冰城	Local Business	709	17	6689
+332114863525113	三清寶殿河洛玄機堂	Church/Religious Organization	683	10	929
+200044930024850	阿茲特克	Local Business	728	21	7400
+123638037714982	AZU韓國精品服飾	Local Business	14646	56	590
+122779294546951	湛藍海洋	Local Business	1352	72	460
+167258589236	[花蓮]  河畔28館鬆餅專賣店	Restaurant/Cafe	3563	22	2859
+652328318145335	La Voix d'Azur 蔚藍之聲	Musician/Band	245	28	0
+204101946450546	鯤鯓阿足姨麵店	Food/Grocery	181	0	11
+604925172922399	黑白滷鴛鴦燙滷味	Food/Beverages	75	2	38
+710291352355209	元富烤玉米	Food/Grocery	91	4	51
+243088775722077	B.W HAIR SALON 概念店	Local Business	1782	212	1262
+260589664029450	B. Waffle 鬆餅。班	Restaurant/Cafe	4438	16	2536
+495444420560898	黑密碼養身飲品	Food/Grocery	1571	79	1489
+551307238247191	甲蟲森林-生態教室	Local Business	1027	18	891
+147046045502342	長霖續接有限公司	Engineering/Construction	17	0	0
+180639628751792	安興宮	Church/Religious Organization	469	26	232
+1391911697761381	B-52髮型工作室	Spas/Beauty/Personal Care	115	2	37
+1477283109157706	超殺排氣管	Automobiles and Parts	4712	15	160
+1407114672874102	八庵二館關新店	Restaurant/Cafe	805	85	4709
+385295591546652	佳音英語東園分校	Education	262	23	2
+512403738838921	台中市88熱炒	Restaurant/Cafe	9	0	1
+120950587931874	巴士公園	Local Business	778	21	331
+164022340440055	拾參	Local Business	5499	194	4812
+173070042864451	小琉球芭芭雅民宿	Personal Blog	221	2	0
+120228744657335	BABE 18	Arts/Entertainment/Nightlife	39096	1352	75976
+570853126287170	巴比熊生鮮果汁專賣店 - 崇德店	Local Business	109	1	6
+672907836069967	巴比頌畫廊	Community	270	23	0
+1374712029429947	八噗食堂	Restaurant/Cafe	187	0	88
+272658876243961	BABU 乳酪	Food/Beverages	604	42	982
+1417484245139182	巴布武運	Food/Grocery	960	88	1348
+435247526547208	火車頭娃娃城	Arts/Entertainment/Nightlife	707	14	1247
+366985666646843	寶貝脆皮紅豆餅	Food/Grocery	682	82	261
+275991065913056	衣著圖鑑	Business Services	164	1	375
+257891224239457	Yoshi	Local Business	631	0	49
+131010220389433	羊雞店帝王薑母鴨 - 福科店	Restaurant/Cafe	108	1	12
+617720121594911	小木屋檳榔	Local Business	315	2	2113
+416132501814307	臺中市大甲托育資源中心	Non-Profit Organization	1153	168	121
+737891586244847	雙連婦產科小兒科診所	Health/Medical/Pharmacy	171	7	42
+338437276293264	貝比動物醫院	Local Business	380	36	45
+271521642886945	Baby%韓國精品童裝店	Landmark	2661	36	253
+1565814386969203	寶貝熊小兒科診所	Doctor	351	29	13
+514798541989358	寶貝熊洗濯館	Professional Services	754	0	5
+607090385995312	宏緯機車行	Professional Services	63	0	38
+334151483291785	童書坊兒童圖書社	Book Store	2205	13	671
+688895067818207	大寮托嬰 - 親親寶貝托嬰中心	Education	143	1	44
+115660196691	BabyCrown	Shopping/Retail	21109	52	76
+161843193937594	BabyCrown - 台北信義誠品	Shopping/Retail	246	1	143
+265210183566715	Baby-Den	Clothing	1058	1	0
+182616471804457	樂兒屋生活健康廣場	Local Business	8910	3731	1967
+360310937440521	寶貝屋親子餐廳	Restaurant/Cafe	1010	43	3174
+556869277718176	欲罷不能鹹水雞-寶山店	Food/Grocery	92	0	57
+621383781251409	金寶貝寵物美容	Pet Services	211	37	85
+161211273944268	寶貝生活館	Local Business	485	14	208
+1398448410372944	貝比龍婦幼館	Shopping/Retail	9124	98	30
+341471192660341	Baby nail art	Spas/Beauty/Personal Care	3412	44	481
+166845529992701	超脫兒童專業攝影	Professional Services	18472	148	864
+144488045749831	BABY Sky童裝舖	Local Business	4362	29	36
+136112813245863	Baby Style Hair Salon 寶貝藝林_板橋店	Spas/Beauty/Personal Care	146	1	0
+391118174249248	BABY TWO 歐美童裝	Local Business	3026	109	743
+212442032285925	屏東寶貝世界	Professional Services	373	6	22
+143770132433283	貝比爬蟲	Pet Services	2315	44	2
+239746519381739	漿果咖啡	Restaurant/Cafe	2503	273	2320
+115689731826345	反拍樂器豐原店	Local Business	5608	178	964
+121904044487595	背包狗	Hotel	9784	1019	2006
+111083245613407	旅人咖啡	Restaurant/Cafe	12677	233	31349
+151378485033282	貝殼窩青年旅舍- 台北 Backpackers Inn, Taipei	Travel/Leisure	4899	207	2590
+1388835174715056	漢堡大師 BURGE Master - 幼英店	Restaurant/Cafe	41	3	30
+630314707029097	板橋監理站	Community/Government	9955	249	11835
+123468114370808	8大森林樂園	Travel/Leisure	10665	1367	46462
+298753329674	芭達桑原住民主題餐廳	Restaurant/Cafe	3295	104	23341
+186716491480586	Bad Girl 貝呄Night Club	Bar	123	0	40
+214844655205120	品蜜軒黃金牛角	Local Business	260	1	168
+710369478974537	高雄市體育會羽球委員會	Sports/Recreation/Activities	1444	99	2
+1391230771110654	青年體育_羽球故事館	Outdoor Gear/Sporting Goods	618	39	86
+443761942340952	八豆食府壽喜燒	Local Business	1965	96	9083
+547972718554556	八斗子產業觀光促進會	Community/Government	1979	268	270
+474627055974540	傻大姐海景餐廳	Restaurant/Cafe	165	11	665
+578522862191534	巴度烘焙窯	Restaurant/Cafe	2193	329	4940
+238752166286714	貝伊拉手工鮮奶酪 永福門市	Restaurant/Cafe	386	30	958
+140657939415612	813 芭依珊	Restaurant/Cafe	610	0	803
+164030320394059	鬍子餐酒 Baffi Italian trattoria (Taipei)	Food/Beverages	17407	354	25277
+237183123046405	八福無障礙生活發展協會	Non-Profit Organization	1035	65	79
+636548853037822	吧咯浪原住民石板燒烤風味餐廳	Public Places	881	28	0
+202924276386619	貝果貝果之東西廚房  07-5588455	Restaurant/Cafe	1945	61	13693
+132406486950144	BAGELS'n BEANS	Restaurant/Cafe	464	0	0
+138724322964995	萊比錫極品咖啡   新莊  幸福店 粉絲團	Restaurant/Cafe	235	22	596
+260078217337835	新秀國際行銷顧問	Local Business	112	0	0
+117162581629567	花酒蔵 Aplus Dining Sake Bar	Restaurant/Cafe	6365	325	29557
+293327740723480	準媽媽婦嬰用品專賣店(直營系統)	Health/Medical/Pharmacy	71548	7769	17669
+185311501508444	AP 優時尚	Shopping/Retail	7984	62	28
+202962986437377	A.P.O CAFE	Computers/Technology	3933	30	0
+257516184265953	大手町關東煮五醬兩湯-大慶總店。	Restaurant/Cafe	324	0	94
+454985147911418	阿婆香雞排	Food/Grocery	609	1	0
+815679151793243	威視樂影視-仁愛店	Business Services	107	1	182
+228644260637815	阿波羅娛樂會所	Bar	1621	44	3518
+113089528723929	艾波索黑金磚	Restaurant/Cafe	42027	438	2743
+365482410177958	阿婆素食	Restaurant/Cafe	1055	2	72
+379133262097432	安平平安	Local Business	10199	71	0
+564944850199079	App國際髮型	Health/Beauty	435	11	703
+216920101735215	Apple Beauty	Spas/Beauty/Personal Care	1903	317	48
+314189688627376	ai3C	Phone/Tablet	20682	288	11906
+375680189239251	蘋果兔童趣生活	Baby Goods/Kids Goods	789	12	0
+153890834683410	蘋果圓 雜貨/童裝	Shopping/Retail	1932	108	1
+145371732181590	蘋果家族兒童街舞	Sports Venue	16119	1216	1104
+181845288518568	Apple Shop桃園旗艦店	Professional Services	667	9	152
+345657958913427	蘋果村別墅社區	Landmark	416	34	2210
+501363203288303	蘋果眼鏡館-大雅店	Professional Services	155	0	159
+1506096736336451	Apple203莊一店	Restaurant/Cafe	90	2	25
+464502590347921	APPLE 203懷德店	Local Business	89	0	55
+628530857221848	Apple203內埔店	Restaurant/Cafe	390	58	681
+294294007378567	蘋果203早午餐咖啡館八德忠勇店	Restaurant/Cafe	166	2	564
+407992035978697	蘋果203 信義店	Local Business	104	1	80
+227976224047870	蘋果203早餐蘇澳蘇中店	Restaurant/Cafe	112	71	778
+290485677661115	永慶不動產R13至聖店	Small Business	780	135	5996
+340795392715433	A.sh親子沙龍 新莊	Spas/Beauty/Personal Care	715	37	760
+222326617792904	Apple 8	Retail and Consumer Merchandise	6770	41	293
+221257958048032	永和大豆漿	Restaurant/Cafe	377	6	247
+177484178955842	蘋果工房(台北東區)	Restaurant/Cafe	7002	140	43591
+232633627068	蘋果日報	Media/News/Publishing	2171476	1264124	3596
+277085965092	Apple Diner	Local Business	6966	34	10542
+238159182953544	UFO hair design	Health/Beauty	380	2	416
+371098846327478	Apple i-KING 手機技研	Computers/Technology	10552	141	328
+491669297544024	小港 - 蘋果複合式餐飲	Restaurant/Cafe	347	0	64
+358362894274082	Memory美睫館	Professional Services	834	8	638
+263396107121017	蘋果眼鏡-公園店	Local Business	168	20	396
+323873957745947	Apple+ plus 光華門市	Phone/Tablet	1498	2	730
+727436370650645	蘋果醫生手機現場快速維修	Local Business	4547	317	400
+135918089787667	Apple Shop 北投門市	Professional Services	821	9	296
+111140932300724	Apple Shop 燦坤花蓮旗艦店	Shopping/Retail	606	23	815
+146935698710150	Apple Shop 燦坤屏東店	Electronics	1222	126	0
+255536561130802	Apple Shop 燦坤高雄華榮店	Local Business	325	2	526
+260845807335072	Apple Shop @基隆燦坤旗艦店	Shopping/Retail	709	43	394
+272107529551909	Apple Shop 燦坤五甲店	Professional Services	611	45	479
+251398634893228	Apple Shop 法雅客天母店	Local Business	424	5	203
+117885834931674	Apple Shop 內湖旗艦店	Shopping/Retail	799	44	0
+185447674809168	Apple Shop＠台中新文心	Professional Services	487	23	80
+159064787437107	Apple Shop 和平門市	Local Business	656	2	118
+184153971630248	Apple Shop燦坤新竹店	Tools/Equipment	351	1	0
+110315242412503	Apple Shop 燦坤苗栗門市	Local Business	355	4	0
+149879725047045	Apple Shop 燦坤台北站前店	Shopping/Retail	999	9	684
+227822383997342	Apple Shop 板橋新埔店	Computers	307	4	0
+128967273852518	Apple Shop 燦坤自由店	Local Business	658	37	814
+382947008391373	蘋果工廠-三重店	Local Business	1075	3	126
+323397595642	蘋果劇團	Organization	5292	407	278
+234184740027854	Apple Warehouse 蘋果倉庫	Professional Services	80377	6406	335
+422273971157207	Appsdoor	Internet/Software	478	0	0
+687943037909555	台中東海劉記大腸蚵仔麵線	Restaurant/Cafe	109	0	44
+1411945515726514	April.H	Shopping/Retail	401	25	30
+116151238541978	四月南風卡斯提拉	Food/Beverages	12415	118	189
+1436328509940258	aprile ㄚㄆㄌㄧㄟ	Restaurant/Cafe	305	3	148
+108489975863764	花愛巧克力	Food/Beverages	16050	8	1133
+401337376631326	Aprp炭烤漢堡三明治	Food/Beverages	263	0	13
+370063179787623	APS 兵工廠包膜工作室	Automotive	3064	1	83
+446009925421139	飛天舞集	Arts/Humanities Website	1202	135	0
+148902715298966	亞太電信西屯漢口	Phone/Tablet	55	0	21
+151662564966388	Apt. J	Clothing	7800	41	0
+170032667766	aPure	Company	19476	75	0
+201498479960249	士林aPure	Shopping/Retail	26	0	2
+191455131007585	阿Q凍圓	Food/Grocery	244	17	0
+394362603985937	阿謙麵包房	Food/Grocery	1751	5	87
+114123705449897	阿Q雞排	Food/Grocery	191	16	0
+257530577733358	AQ豬腳飯	Restaurant/Cafe	88	0	39
+485919854801617	瑞豐 阿葵亞 香水保養品專賣店	Spas/Beauty/Personal Care	453	6	359
+147103378639163	紅巢燒肉工房	Restaurant/Cafe	11175	377	16509
+141435969225085	漾館時尚溫泉飯店	Hotel	1975	36	1465
+151268871599733	神仙川味牛肉麵	Restaurant/Cafe	2153	23	4268
+357034217711479	Aqua Kiss水吻2-Surfer	Local Business	8035	115	12755
+351263261551220	Aqua Pica 火鍋創意料理 - 金典綠園道	Restaurant/Cafe	1608	42	7139
+202289139850072	魚市場水族寵物舘	Pet Services	2846	91	203
+204236786255992	AquaTea水相餐廳	Restaurant/Cafe	20101	428	89914
+1441000312816630	瑞豐阿葵亞香水保養品專賣店	Retail and Consumer Merchandise	430	12	200
+352669401545904	阿本的店	Local Business	392	4	59
+478602095572830	順億車業	Professional Services	58	1	332
+172790602780346	雅克諾桌上遊戲精品	Arts/Entertainment/Nightlife	872	29	485
+194547990581439	埔里桃源養蜂場	Local Business	335	1	106
+141030292624420	紅拱門泰式主題餐廳	Local Business	1541	274	24539
+715399231805302	三媽臭臭鍋土城中央店	Food/Grocery	38	0	65
+102458283141357	惠安建築旅遊	Local Business	2469	15	39
+336949486445384	808嚴選檳榔	Food/Grocery	411	13	244
+643590788989770	Ares.衣著	Clothing	1517	30	0
+354253478025694	Ares Taiwan 泰好鴻業股份有限公司	Retail and Consumer Merchandise	2577	236	0
+311888998905493	亞格廣告有限公司	Company	143	1	29
+235717523123450	梓源實業有限公司	Local Business	677	4	241
+187917634585388	艾瑞兒的珠寶捧花與泰迪熊	Local Business	46154	1213	385
+177606952263468	艾莉兒甜品盒	Restaurant/Cafe	3183	26	302
+361474543913058	豐饡鐵板燒	Restaurant/Cafe	1521	93	1608
+1557831144456185	Arise新莊店-西裝OL套裝專賣店	Local Business	655	28	69
+239991122695801	ARKI GALÉRIA 築空間	Arts/Entertainment/Nightlife	5228	81	886
+560495587426935	方舟茶藝坊	Museum/Art Gallery	225	3	113
+263075733738767	阿媽牌生鐵鍋	Shopping/Retail	21566	448	449
+432320206907810	宜蘭縣後備指揮部	Non-Profit Organization	568	1	53
+127869483951535	阿諾菓子手作坊&阿諾可麗餅	Local Business	6346	118	0
+345047608976475	中華芳香樂活全球發展協會	Event Planning/Event Services	4025	84	0
+703529993038925	AROMA 亞羅曼咖啡	Restaurant/Cafe	217	1	195
+254262004618553	大自然養生會館	Travel/Leisure	2926	31	5140
+139929739381605	Aroma Pastry 亞蘿蔓洋菓子	Local Business	2427	21	38
+139407656125824	味四季	Local Business	2509	107	3537
+429925130381885	AROMATALE	Spas/Beauty/Personal Care	3230	1	146
+240536789401793	AROMA義大利坊	Restaurant/Cafe	494	10	3429
+838786596166366	Arôme Cafe	Restaurant/Cafe	185	36	127
+162729157117418	崙背 阿榮肉圓	Restaurant/Cafe	544	28	4399
+273616305848	A ROOM MODEL	Shopping/Retail	54882	2257	384
+542752835785198	泰喜歡 A ROY DEE by Sukhothai	Local Business	3017	91	0
+1413272945561348	Arrowhead Street Culture	Local Business	3427	9	198
+112371408836973	Arrow Tree台灣亞羅珠麗	Restaurant/Cafe	23042	510	10858
+172864379581231	ARROW TREE Hualien 花蓮亞羅珠麗	Restaurant/Cafe	7550	314	6453
+120101758100100	亞新地產開發	Local Business	199	1	235
+510823662317335	AS部品	Professional Services	1013	1	31
+379155702176599	愛眉Ar-sun 3D立體飄繡眉Eyebrow Tattoo	Spas/Beauty/Personal Care	428	7	7
+348812228530266	椏椏魅睫藝術 美睫/紋繡/除毛 salon	Health/Beauty	74188	3468	7156
+111426735602251	ART 101 Hair Salon	Spas/Beauty/Personal Care	8279	64	15999
+200936739973858	永慶不動產中華藝校店	Real Estate	322	55	2232
+125591510880593	懷墨齋	Local Business	352	52	237
+323682904366639	車界汽車	Automotive	201	5	53
+190369724411050	劉鳳珠美術黏土才藝教室	Education	381	19	324
+236008746416044	藝饌蘭庭	Restaurant/Cafe	2426	121	12115
+457220277680118	藝術8 / Art 8	Museum/Art Gallery	3057	2	104
+179914805451154	陳老師美術教室	Education	329	49	0
+369164969844391	典藏33觀景餐廳artco.33	Restaurant/Cafe	3439	142	18796
+123361417721913	府城『藝術轉角』	Local Business	3135	40	10657
+218470724873342	ARTDOOR Gallery 藝境畫廊	Museum/Art Gallery	3995	125	489
+192627594150931	香草菲菲	Tours/Sightseeing	17035	841	160774
+180231612037655	亞緹米絲	Retail and Consumer Merchandise	52125	2438	0
+135362869833248	台中市美術園道商圈	Community Organization	1975	164	28085
+331331133610985	Arthere Café 上樓看看咖啡	Arts/Entertainment/Nightlife	7455	104	6707
+698945430130352	亞瑟時尚西服	Clothing	7424	17	0
+124055631069098	亞瑟影像	Media/News/Publishing	15	0	3
+122514031154483	Artifacts	Product/Service	28682	207	0
+226892160661165	Artificer - Taiwan	Biotechnology	52404	270	362
+155712537895713	英文美術	School	166	44	48
+100330973428179	典藏投資art.investment	Magazine	2343	101	0
+423647361018044	藝術計劃 Art Issue Projects	Museum/Art Gallery	2592	21	124
+341121742648727	Artista Perfetto	Restaurant/Cafe	11911	432	12796
+613770755374418	牙齒的藝術家-打造您專屬的完美微笑	Health/Beauty	2135	9	239
+542428489123081	Art建騰國際有限公司	Health/Beauty	121	0	149
+265306263609784	小瓢虫兒童美術工作室	Arts/Entertainment/Nightlife	292	27	168
+637966736230415	Artlife	Shopping/Retail	4141	228	3407
+168554289850690	楊莉莉青花	Local Business	5228	47	248
+256698804346259	Art Nails藝術指甲	Spas/Beauty/Personal Care	4316	3	50
+513503955417394	A.N ＊Art.Nail＊	Professional Services	1603	72	172
+190382117814349	花漾藝術美甲-文忠店	Health/Beauty	1270	20	454
+192043437499158	臺灣大學藝文中心	University	4224	268	511
+381471585292269	咖啡美學自家烘焙坊 Art of Cafè	Restaurant/Cafe	1337	19	1062
+141003715961904	髮術 Art of Hair	Local Business	747	0	2287
+174426629328083	彩田美術	Education	208	2	57
+126939877324171	佔空間Artqpie	Arts/Entertainment/Nightlife	40754	472	607
+275136412548391	風野藝術‧巴黎美苑	Education	385	23	0
+556692531116105	ARTS Fresh inn	Local Business	394	8	674
+359629794127451	天湛樂音樂藝文咖啡館	Restaurant/Cafe	1728	30	1009
+208911305899459	衣的藝術台南店	Shopping/Retail	486	15	147
+289257207884650	桃園藝文特區商圈	Community Organization	7319	70	2155
+159229257459712	東海藝術街商圈	Landmark	1977	226	69178
+200672153277275	台北國際藝術村	Museum/Art Gallery	13390	146	10869
+423194954406007	客作茶人茶香	Local Business	1180	19	44
+202380409794093	寶藏巖國際藝術村	Museum/Art Gallery	43643	2066	83541
+313087378756023	Art-ways	Local Business	69	0	7
+575811819105693	爆炸雞台灣料理餐廳	Food/Grocery	2324	34	0
+297611510338167	福興汽車保養場	Automotive	255	4	1456
+260262938476	指愛美麗藝術美甲	Local Business	35224	219	2212
+424497197612618	八豆咖啡館	Restaurant/Cafe	428	10	77
+155025804507497	Bellavita a3	Restaurant/Cafe	1528	31	0
+524786844247979	The bed 水煙館	Actor/Director	2214	31	0
+188800327906530	Bar 9 Taipei	Local Business	709	35	1065
+172423472963137	全州食堂埔心店	Restaurant/Cafe	420	4	591
+206760332699567	野蠻公園服務設	Shopping/Retail	586	36	0
+256442691033788	烤滋味無煙碳烤 裕農店	Food/Grocery	261	1	41
+308169445866673	臻香味現烤玉米	Food/Beverages	202	0	75
+541709362524988	芭比禮服專賣店	Local Business	915	24	84
+262135790593643	立得條碼科技有限公司	Local Business	8	0	1
+111112320754	BARCODE Taipei	Arts/Entertainment/Nightlife	23805	662	67296
+114774111034	BARCODE Kaohsiung	Arts/Entertainment/Nightlife	10474	82	24774
+186678874689417	巴登咖啡	Local Business	1947	169	14957
+295804213917653	Bären Biergelden 熊吧	Local Business	964	82	945
+199858433380721	Dr.Bean	Professional Services	2363	33	815
+232719216751573	西雅圖極品咖啡台南新天地	Restaurant/Cafe	695	13	3825
+134778506714805	Bark海安店	Local Business	3786	139	11914
+444401045611742	奏 焼鳥 Bar Kanade	Restaurant/Cafe	10420	24	1549
+141878496013657	Barkers 美式餐廳	Restaurant/Cafe	575	51	1745
+220895644718296	巴洛克洋房Baroque  台南住宿	Tours/Sightseeing	439	25	350
+1405112246428603	桶一天下-直營總店	Food/Grocery	9272	20	187
+1476835242549069	高雄市政府社會局無障礙之家	Government Organization	532	76	477
+294149600684336	BAR RITO	Restaurant/Cafe	2043	0	324
+199805190169463	Barsoul 國際調酒培訓基地	Travel/Leisure	350	2	0
+109606739149220	Bar Touchdown	Bar	879	42	1136
+590773014301758	覇味薑母鴨-大有店	Restaurant/Cafe	121	4	1675
+364429693624872	日式酒吧 bar Z	Local Business	765	33	1577
+281424168616716	棒球精緻旅店	Hotel	203	0	291
+172644069568147	南山巴上幸福早餐	Local Business	191	11	0
+153291338142798	如榆建築及設計事務所	Engineering/Construction	320	3	0
+160088274182500	貝司耳機BASS headphone store	Shopping/Retail	1895	9	298
+161863610544242	一流機車出租(嘉義市)	Local Business	735	21	148
+437004369680339	好食多涮涮屋	Restaurant/Cafe	3204	49	0
+699322360085126	花蓮嵐庭休閒民宿	Hotel	60	0	47
+125371294200338	布查花園法式料理	Restaurant/Cafe	1514	49	3906
+158428410887881	巴甜養生蔬食咖啡	Restaurant/Cafe	1713	304	4865
+300038956732902	7-11寶成門市	Shopping/Retail	641	1	351
+100314193386916	爆江紅豆餅(草屯總店)	Food/Grocery	379	22	159
+408701212537954	寶佳石材	Mining/Materials	153	1	49
+467692359982223	永和包子 -178上海鮮肉包	Food/Grocery	74	0	7
+491502890975844	Bavaria車體美研館	Automotive	439	2	390
+147144968675117	花蓮彰化肉圓	Restaurant/Cafe	479	1	549
+345832298828337	霸王鍋貼	Food/Beverages	34	0	0
+295763227201553	霸王紅面碳燒薑母鴨(三重忠孝店)	Local Business	394	2	3442
+700265596682367	八王子油飯	Food/Beverages	153	4	27
+180781942001397	霸味薑母鴨-台中民權店	Local Business	1250	1	3348
+1493267977616776	基隆中正霸味薑母鴨	Local Business	319	2	502
+395777693843277	霸味薑母鴨-竹東店	Food/Grocery	85	0	1052
+146926975354523	Baxter Gelato義大利式極緻手工冰淇淋	Food/Beverages	3879	146	695
+482279281906827	蘭嶼巴漾民宿	Hotel	653	247	331
+308704982496003	八葉咖啡	Food/Beverages	503	3	300
+427276460631800	Bayhouse Hostel Penghu 澎湖北吉光背包客民宿	Tours/Sightseeing	7765	142	1488
+553872361354103	八裔鍋	Local Business	539	16	0
+500122950003635	東港大鵬灣發現民宿	Hotel	770	19	2688
+169322306450023	望海樓民宿	Hotel	941	25	2220
+1510449552563556	八饌燒烤餐盒	Restaurant/Cafe	38	2	132
+302335433150117	清境駿亦景觀民宿	Tours/Sightseeing	1788	78	2620
+402123049871469	愛逮丸環保市集	Shopping/Retail	498	0	22
+680094925416024	枕戈待旦景觀餐廳	Restaurant/Cafe	618	6	539
+513660032041479	雙園街羊肉炒麵	Food/Grocery	49	6	91
+151848288183256	新竹藍灣潛水訓練中心 Blue Bay Diving Center	Local Business	4070	217	796
+1401165956788567	比比錄音室	Concert Venue	2124	31	194
+688525121175527	象霸泰式椒麻雞-路竹總店	Food/Beverages	427	28	784
+116295368424820	BboyCity節奏城市-街舞文化推廣團隊	Event Planning/Event Services	5359	14	0
+1377700895804280	瑞豐阿東	Food/Grocery	43	1	67
+286835001478995	大燒肉吐司專賣店	Restaurant/Cafe	80	0	18
+520556571382436	碳金屋燒烤	Local Business	735	73	915
+166190640114403	田季發爺 西門店	Local Business	755	164	44425
+1393058380912367	北港炭烤：忠福店	Local Business	31	15	152
+742071582522815	尚讚燒烤居	Community	445	51	0
+144494529006584	街仔底燒烤Bar	Local Business	1046	11	4568
+280112548706957	田季發爺逢甲店	Restaurant/Cafe	3346	208	41762
+339187929428691	烤場居酒屋	Bar	191	8	111
+1415406522007909	家鄉碳烤香雞排專賣店	Food/Grocery	235	7	49
+299489396794865	B.B.Q. House	Restaurant/Cafe	539	0	1295
+608574912549354	熊與兔	Health/Beauty	129	0	45
+317935118243906	BestBuyShop	Shopping/Retail	607	17	788
+599916280057508	佳音英語竹山分校	Education	462	45	82
+131333770276125	板橋168包子饅頭	Food/Grocery	415	75	142
+706612806063205	北成基督長老教會	Church/Religious Organization	158	2	20
+749899998376910	黑貓花狗	Retail and Consumer Merchandise	282	1	32
+143000279099763	相機王 忠孝店	Local Business	1040	71	2058
+299824476769323	BCCT自動車手工包膜	Automotive	36535	1343	627
+647024568648659	B-Cha燒炭原味美式牛排	Local Business	123	1	189
+524083717605257	台南民族路教會	Non-Profit Organization	673	25	0
+440200092697094	布夏爾咖啡館	Restaurant/Cafe	643	0	467
+292434664251448	烘豆咖	Food/Grocery	2	0	1
+203004266430673	綠野馬術文創園區	Sports/Recreation/Activities	1996	111	3986
+504588413001314	小琉球貝殼沙民宿	Tours/Sightseeing	516	8	260
+539154936119440	BOSS CAR 柏斯卡比利時鬆餅	Food/Grocery	937	0	527
+567403203406060	佳音英語崇明分校	Education	262	50	31
+213698538830678	佳音英語內埔分校	Education	429	33	77
+1421745771373506	佳音英語登發分校&登發二校	Education	182	18	283
+189275977883023	藕.Soup.茶	Restaurant/Cafe	159	0	0
+392145930930904	八德寧安	Club	182	4	197
+345204652220905	Be: 咖啡 / 藝文展演空間	Restaurant/Cafe	2457	8	1032
+148151678728251	樂於韓國精品服飾	Shopping/Retail	227	1	13
+188495917856088	蜜蜂世界	Local Business	210	36	5325
+279758868868214	文武伍肆	Food/Beverages	3319	1462	1430
+199564216790433	沙灘小酒館	Restaurant/Cafe	201	31	237
+1430131267217634	崑發車業	Automotive	85	12	62
+253570664766064	墾丁‧後灣 【海邊散步 咖啡 宿】	Tours/Sightseeing	2894	39	1276
+684528581588287	衍義國際法律事務所	Legal/Law	577	16	239
+346815625381392	Beacon	Shopping/Retail	3040	40	59
+427699293996014	BEAMS Taiwan	Clothing	31406	669	0
+203743996474426	集集濱哥手工蛋捲	Local Business	6059	10	57
+385483114890817	Beans & Coffee	Restaurant/Cafe	291	26	326
+576682995719605	豆香築 Bean's	Restaurant/Cafe	794	23	260
+671903126162112	豆子町	Food/Grocery	308	0	393
+160618850661830	豆子劇團粉絲團	Local Business	3965	189	97
+295336300632484	貝爾cafe輕食	Restaurant/Cafe	802	24	1817
+283775471703667	清閒焙可饗食堂	Restaurant/Cafe	4664	456	7879
+427352983984289	大雄車坊	Community	125	0	0
+400865206677598	熊格舖	Local Business	288	0	8
+452934208119046	土埆厝 懷舊餐廳	Food/Beverages	1731	35	1970
+818426724849749	熊果園  風格.茶飲	Food/Beverages	326	2	305
+428874863900797	Bear雜貨舖	Food/Grocery	601	9	103
+161607714013952	廟口熊介冰冰店	Food/Grocery	81	0	90
+105619716271580	旭屋牛丼專門店	Restaurant/Cafe	3709	84	7868
+334273709928277	無著健康之道*ASANGA	Local Business	621	57	105
+302955389860535	淺野屋日式手作霜淇淋	Food/Beverages	1516	129	902
+231371140395894	＊purple＊	Shopping/Retail	95	0	0
+267554430060335	詩肯柚木	Public Places	0	0	0
+145067525565039	阿盛蔥抓餅 士林捷運站	Landmark	133	0	91
+154646841274651	阿舍食堂	Food/Beverages	55450	171	2764
+370328513138355	AShare Café	Restaurant/Cafe	770	149	582
+265761760102466	阿霞肉圓	Local Business	281	0	119
+657563234319892	Uncle Choco 巧克力專賣店	Travel/Leisure	919	63	1813
+340601489425095	阿信髮雕A-Shing 崙背店	Professional Services	270	3	509
+370727123017867	阿逝孕寵物美容一店	Local Business	1020	6	2208
+427091794009755	A-show精品服飾(向上店)	Shopping/Retail	530	1	147
+548332381932117	阿咻比寵物沙龍	Local Business	91	8	22
+193931704092260	阿水伯釋迦	Local Business	195	1	74
+119763008169878	阿順自助餐店	Restaurant/Cafe	339	1	269
+421812254573056	阿束社咖啡園	Restaurant/Cafe	500	43	0
+242238765834326	Tsutaya亞藝永貞店	Arts/Entertainment/Nightlife	417	4	0
+441450362540355	Asia University Ando Art Museum 亞洲大學安藤藝術館	Landmark	1818	12	11772
+638641482922363	ASIA BEAT	Organization	1217	3	20
+479378942188511	微整顧問 張雪峰醫師	Hospital/Clinic	296	0	29
+258203960867305	亞洲大學創意設計學院	University	1171	36	578
+158845894157605	Asia	Bar	30883	48	53213
+404449752999607	亞洲龍食品股份有限公司	Company	124	4	9
+320325154753701	亞洲珠寶銀樓	Shopping/Retail	17	0	9
+112630575533142	亞大資傳	University	2616	8	106
+183583991771867	Asia Museum of Modern Art 亞洲現代美術館	Local Business	1030	332	5199
+235819386463262	亞洲大學商場	Restaurant/Cafe	1469	2	566
+428987813820063	AMF 亞洲會展產業論壇	Organization	463	1	35
+159907244254	亞洲唱片	Record Label	1774	185	2
+653945241394632	亞洲精工複材 單車精品部	Sports/Recreation/Activities	1937	63	0
+610023872370752	Asia shoes 亞商鞋品	Business Services	147	5	57
+144437888961315	亞葳數位媒體	Internet/Software	834	34	151
+163684057047364	亞瑟士足球專賣店	Outdoor Gear/Sporting Goods	3160	258	42
+400783306654214	足神五行養身館	Health/Medical/Pharmacy	231	0	23
+1377773709137991	亞舍茶軒	Restaurant/Cafe	158	0	83
+305382919554324	溪頭逍遙居民宿	Travel/Leisure	1413	145	909
+800116013345881	亞瑟單車	Company	488	7	426
+118307991573396	甘樂阿舍	Museum/Art Gallery	588	78	165
+112892932200070	阿西魷魚羹	Restaurant/Cafe	265	6	589
+326715070157	Aimer Shine愛美香	Health/Beauty	5318	42	0
+150465048483398	As 美髮彩妝	Professional Services	283	10	809
+155372657981425	阿瘦皮鞋大溪店	Business Services	6	0	16
+633075166707555	阿瘦皮鞋 大灣店	Local Business	4	0	5
+186021814925048	日東豚骨拉麵屋	Restaurant/Cafe	423	2	887
+387793728066041	素食鄭	Food/Grocery	29	2	8
+791459784232142	協冠海鱻特產	Local Business	128	21	8
+147919565257329	桃園安聖堂 An Sheng Tang	Local Business	2206	4	3122
+232680710156485	花蓮亞士都飯店	Hotel	378	58	2795
+215696181946796	連網廣告設計	Business Services	38	0	0
+225326234308118	薯咖啡．茶飲	Restaurant/Cafe	254	0	181
+302731666437086	阿水的家/鬼店 (美食)	Restaurant/Cafe	495	41	284
+538376126254723	有一套童裝親子館	Local Business	117	0	5
+145215095577932	Asuka Hair Designer	Local Business	752	61	704
+135784659965069	北港老孫羊肉-後庄軍輝店	Restaurant/Cafe	181	0	196
+332119690149974	數位通訊生活館 北屯店	Local Business	87	1	82
+177943119047285	無極太子行宮	Church/Religious Organization	363	15	150
+228465357269295	@Studio	Organization	9086	58	2534
+382992225076285	愛堤卡莎	Restaurant/Cafe	9626	27	7881
+604008869629001	ㄚ田廚房	Restaurant/Cafe	83	8	300
+134231250002939	我在台南	Government Organization	191871	11781	378
+633035583408792	克麗緹娜-鹽行店	Health/Beauty	255	12	405
+476448832475886	台南大內聖王堂	Church/Religious Organization	3020	376	82
+471290562958178	AT11 Kenny	Spas/Beauty/Personal Care	239	0	0
+438641989510187	AT17 國際美髮沙龍	Company	6548	167	7038
+633901963367544	At23國際髮型-名留集團	Professional Services	386	6	1354
+149247291801878	At25-西門明星店	Local Business	5115	52	12345
+221909661198566	At26國際髮型	Local Business	3783	21	10120
+116802645067963	北投熱海溫泉大飯店 Atami Hotel Taipei Onsen	Hotel	1933	123	3353
+1416754328554934	at CAFE	Restaurant/Cafe	1694	231	2052
+199219826810490	Atelier 517 攝影工作室	Local Business	1021	18	235
+172623909462983	珍芳烏魚子見學工廠	Tours/Sightseeing	1309	19	2122
+1511017089151615	炳叔烤玉米-一中店	Food/Beverages	368	1	123
+164426393745468	At國際髮型【旗艦店】台北車站	Local Business	1920	34	1430
+398543000231907	小間・日常	Restaurant/Cafe	4708	76	1393
+111870068824849	花蓮民宿-@Home像個家	Hotel	1972	57	1196
+1382815341968561	阿庭薑母鴨	Food/Grocery	186	0	157
+337783582938210	At korea台南店	Local Business	411	45	97
+201312440034348	亞特蘭提斯  - 雙溪	Restaurant/Cafe	125	56	313
+249615831813292	中華民國觀光領隊協會	Non-Profit Organization	2914	119	127
+225539850885016	鴨血達人	Local Business	665	37	1433
+125595810887610	大國豐臣演藝人有限公司	Company	1832	5	0
+413655165343280	ATOC	Local Business	4426	0	0
+325011377640911	同記咖哩坊	Restaurant/Cafe	291	0	659
+555686547791225	賴在咖啡	Local Business	918	6	0
+752198101470952	百世文教	Education	4329	206	40
